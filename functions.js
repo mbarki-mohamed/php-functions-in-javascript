@@ -1,7 +1,8 @@
  
  
  
-  var str ; 
+  var str,
+      variable; 
   
   function isset(str){
   
@@ -15,3 +16,22 @@
         }
   
   }
+  
+  function empty(variable) {
+   
+   if (variable === ''){
+    
+        return true ; 
+     
+   }
+   else {
+    
+    return false ; 
+   }
+  }
+  
+  function strlen(str) {
+   
+       return str.length ; 
+  }
+   
