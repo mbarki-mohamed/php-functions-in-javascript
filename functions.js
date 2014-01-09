@@ -1,5 +1,7 @@
  
- 
+ /**
+ * PHP functions in javascript 
+ **/
  
   var str,
       str1,
