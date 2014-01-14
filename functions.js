@@ -3,8 +3,6 @@
  * PHP functions in javascript 
  **/
  
- 
- 
  // String Manipulation functions 
  
   var str,
