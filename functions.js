@@ -89,6 +89,10 @@
      return str ; 
   }
   
+  function explode(pattern,str){
+   
+   
+  }
   
   
   
