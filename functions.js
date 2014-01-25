@@ -5,7 +5,6 @@
  
  // String Manipulation functions 
  
- 
   var str,
       str1,
       str2,
